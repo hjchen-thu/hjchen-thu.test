@@ -4,11 +4,11 @@
 <li>
   <a href="{{ post.url | relative_url }}" class="h4 flip-title"><span>{{ post.title }}_list2</span></a>
   <time class="heading faded fine" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:format }}</time>
-<!--  <h2>{{ post.title }}</h2>-->
+  <h2>{{ post.title }}</h2>
   <div style="display: flex;">
     <div style="width: 30%; display:block;margin-right: 20px;">
       <div><img src="/assets/img/galaxy.jpeg" style="box-shadow: 4px 4px 8px #888;"></div>
-<!--      <div><time class="heading faded fine" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:format }}</time></div>-->
+      <div><time class="heading faded fine" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:format }}</time></div>
     </div>
     <div style="width: 70%;display:block;">
       {{post.excerpt}}

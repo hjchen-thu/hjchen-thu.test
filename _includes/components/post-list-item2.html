@@ -10,12 +10,12 @@
 <li>
   <h2>{{ post.title }}</h2>
   <div style="display: flex;">
-    <div style="width: 30%; display:block;">
+    <div style="width: 30%; display:block;margin-right: 20px;">
       <div><img src="/assets/img/galaxy.jpeg" style="box-shadow: 4px 4px 8px #888;"></div>
       <div><time class="heading faded fine" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:format }}</time></div>
     </div>
     <div style="width: 70%;">
-      <p>{{post.description}}</p>
+      {{post.excerpt}}
     </div>
   </div>
 </li>

@@ -4,7 +4,6 @@ title: Social Media Impocalypse (v4)
 description: >
   Hydejack v4 adds *a lot* of social media icons and introduces a new default layout.
   It also breaks things, hence a new major release number.
-excerpt_separator: <!--more-->
 ---
 
 Hydejack v4 adds *a lot* of social media icons and introduces a new default layout.
@@ -17,7 +16,6 @@ It also breaks things, hence a new major release number.
   * Now has `font`, `font_accent` and `google_fonts` fields that are mandatory.
 * Now defaults to the `blog` layout, old style is available via `blog-by-tag` layout, see `archive.html`.
 
-<!--more-->
 
 **NOTE**: This post is outdated and only included for legacy reasons.
 See the [Documentation][docs]{:.heading.flip-title} for up-to-date instructions.

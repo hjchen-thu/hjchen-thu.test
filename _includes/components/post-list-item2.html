@@ -1,11 +1,12 @@
 {% assign post = include.post %}
 {% assign format = include.format | default:site.data.strings.date_formats.related_post | default:"%d %b %Y" %}
+{% assign image = post.image | default:"/assets/img/galaxy.jpeg" %}
 
 <li>
   <a href="{{ post.url | relative_url }}" class="h2" style="border-bottom:none;"><span>{{ post.title }}</span></a>
   <div style="display: flex; margin-top: 10px;margin-bottom: 33px;">
     <div style="width: 30%; display:block;margin-right: 20px;">
-      <div><img src="/assets/img/galaxy.jpeg" style="border-radius: 8px;box-shadow: 4px 4px 8px #888;"></div>
+      <div><img src="{{image}}"  style="border-radius: 8px;box-shadow: 4px 4px 8px #888;"></div>
       <div><time class="heading faded fine" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:format }}</time></div>
     </div>
     <div style="width: 70%;display:block;">

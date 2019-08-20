@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Efficient Architecture Search by Network Transformation
+
 description: >
   Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content.
 author: author2

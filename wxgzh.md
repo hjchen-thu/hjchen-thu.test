@@ -1,5 +1,5 @@
 ---
-image: /assets/img/galaxy.jpeg
+image: /assets/img/galaxy2.jpg
 ---
 
 # Wechat Public Account

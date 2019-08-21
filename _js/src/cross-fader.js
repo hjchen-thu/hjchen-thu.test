@@ -103,7 +103,7 @@ export class CrossFader {
     );
   }
 
-  updateStyle({ color = "#4fb1ba", themeColor = "#193747" } = {}) {
+  updateStyle({ color = "#268bd2", themeColor = "#193747" } = {}) {
     if (this.themeColorEl) {
       window.setTimeout(() => (this.themeColorEl.content = themeColor), 250);
     }

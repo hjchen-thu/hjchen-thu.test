@@ -217,10 +217,10 @@ zhihu:
   icon: icon-zhihu
   prepend: "https://zhihu.com/people/"
 
-linkedin:
-  name: Linkedin
-  icon: icon-linkedin
-  prepend: "https://linkedin.com/in/"
+# linkedin:
+#   name: Linkedin
+#   icon: icon-linkedin
+#   prepend: "https://linkedin.com/in/"
 
 kaggle:
   name: Kaggle

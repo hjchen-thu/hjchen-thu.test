@@ -1,5 +1,6 @@
 ---
 title: Introducing Hydejack (v3)
+image: /assets/img/blog/louis-hansel.jpg
 description: >
   Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com) theme,
   stolen by [@qwtel](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com).

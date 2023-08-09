@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Stay Gold
+  # Stay Gold
 
 # A list of keywords for your blog
 keywords:              [test, blll, hh]
@@ -50,16 +50,17 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             Blog
+  - title:             Blogs
     url:               ../
-  - title:             Research
-    url:               /research/
+  # - title:             Research
+  #   url:               /research/
 #  - title:             Docs
 #    url:               /docs/
-  - title:             Note
-    url:               /note/
-  - title:             Other
-    url:               /other/
+  - title:             History
+    url:               ../
+  #   url:               /note/
+  # - title:             Other
+  #   url:               /other/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

@@ -13,3 +13,4 @@ overlay:    false
 ---
 [[Data Science](/tag-data-science)]
 [[Kaggle](/tag-kaggle)]
+[[CUDA](/tag-cuda)]

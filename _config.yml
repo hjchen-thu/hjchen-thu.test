@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  # Stay Gold
+#  Stay gold!
 
 # A list of keywords for your blog
 keywords:              [test, blll, hh]
@@ -57,7 +57,7 @@ menu:
 #  - title:             Docs
 #    url:               /docs/
   - title:             History
-    url:               ../
+    url:               ../../history/
   #   url:               /note/
   # - title:             Other
   #   url:               /other/

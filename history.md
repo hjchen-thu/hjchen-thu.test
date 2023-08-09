@@ -9,3 +9,4 @@ description: >
 Category:
 [[Note](../../note/)]
 [[Project](../../project)]
+[[Other](../../other)]

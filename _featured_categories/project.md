@@ -8,3 +8,6 @@ description: >
   stable
 
 ---
+
+[[Data Science](/tag-data-science)]
+[[Kaggle](/tag-kaggle)]

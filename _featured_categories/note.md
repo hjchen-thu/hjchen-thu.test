@@ -12,4 +12,4 @@ background: rgb(32,32,32)
 overlay:    false
 ---
 [[Data Science](/tag-data-science)]
-[[Kaggle](/tag-data-science)]
+[[Kaggle](/tag-kaggle)]

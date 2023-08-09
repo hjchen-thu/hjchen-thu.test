@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test
-tags:       [data science]
+tags:      [cuda]
 image: /assets/img/galaxy2.jpg
 description: >
 

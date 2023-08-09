@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test
+title: Test other
 tags:      [cuda]
 image: /assets/img/galaxy2.jpg
 description: >

@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: list2
 title: Note
 slug: note
 menu: true

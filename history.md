@@ -6,5 +6,6 @@ description: >
   Check out the `blog` layout for comparison.
   Open `posts.md` to edit this text.
 ---
-[[note](../../note/)]
-[[research](/note)]
+Category:
+[[Note](../../note/)]
+[[Project](../../project)]

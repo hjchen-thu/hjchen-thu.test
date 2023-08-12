@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test project
+title: Test project Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite
 tags:      [cuda]
 image: /assets/img/galaxy2.jpg
 description: >

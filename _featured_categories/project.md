@@ -9,5 +9,4 @@ description: >
 
 ---
 
-[[Data Science](/tag-data-science)]
-[[Kaggle](/tag-kaggle)]
+[[Kaggle+](/tag-kaggle+)]

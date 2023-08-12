@@ -11,4 +11,4 @@ Category:
 [[Project](../../project)]
 [[Other](../../other)]
 
-test:[haha(../../contact/intro.pdf)]
+test:[[haha](../../contact/intro.pdf)]

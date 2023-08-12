@@ -10,3 +10,5 @@ Category:
 [[Note](../../note/)]
 [[Project](../../project)]
 [[Other](../../other)]
+
+test:[haha(../../contact/intro.pdf)]
